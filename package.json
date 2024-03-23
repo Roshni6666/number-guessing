@@ -1,0 +1,21 @@
+{
+  "name": "rosh-number-guessing",
+  "version": "1.0.1",
+  "description": "governor Initiative IT Program project name; cli number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "rosh-number-guessing": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
